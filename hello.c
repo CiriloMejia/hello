@@ -5,6 +5,7 @@
 *Printing my name and major
 */
 
+/* The start of the code*/
 #include <stdlib.h>
 #include <stdio.h>
 
